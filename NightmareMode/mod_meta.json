@@ -1,0 +1,9 @@
+{
+	"Author": "jibblyjobbly",
+	"Name": "Winch Mod Template",
+	"ModGUID": "jibblyjobbly.NightmareMode",
+	"Version": "0.0.1",
+	"ModAssembly": "NightmareMode.dll",
+	"MinWinchVersion": "0.4.0",
+	"Entrypoint": "NightmareMode.Loader/Initialize"
+}
